@@ -1,0 +1,10 @@
+About Alliance:
+Alliance is a complete set of free cad tools and portable libraries for vlsi design. It includes a vhdl compiler and 
+simulator, logic synthesis tools, and automatic place and route tools. A complete set of portable cmos libraries is 
+provided. Alliance is the result of a twelve year effort spent at SoC department of LIP6 laboratory of the Pierre & Marie
+Curie University (Paris VI, France). Alliance has been used for research projects such as the 875 000 transistors StaCS
+superscalar microprocessor and 400 000 transistors ieee Gigabit HSL Router.
+
+Alliance vlsi cad System is free software. Binaries, source code and cells libraries are freely available under the
+GNU General Public License (GPL). You are welcome to use the software package even for commercial designs without any fee.
+You are kindly requested to mention: "Designed with Alliance © LIP6, Université Pierre et Marie Curie".
